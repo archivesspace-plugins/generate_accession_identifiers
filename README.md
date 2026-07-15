@@ -1,3 +1,7 @@
+> **⚠️ Notice: This plugin is no longer maintained.**
+> We have stopped maintaining this plugin and will not be providing
+> further updates, bug fixes, or support. Use it at your own risk.
+
 This plugin adds automatic identifier generation to the "Create
 Accession" form.  The form will default to an identifier such as:
 
